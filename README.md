@@ -1,1 +1,1 @@
-# imgstore 图片存粗
+# imgstore 图片存储
